@@ -8,3 +8,5 @@ Discover which Tokyo buildings are hit by urban heat islands using Google Climat
     - Requires Climate engine 
 
 - [Bucket 🪣 for datasets and CARTO workflow files](https://storage.googleapis.com/carto-tokyo-bootcamp/) to create the analysis datasets for the map.
+
+- [CARTO Builder map of Analysis](https://clausa.app.carto.com/map/a27558a7-355c-4f73-b460-99c1d941d2c9)
