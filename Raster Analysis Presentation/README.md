@@ -8,8 +8,7 @@ Discover which Tokyo buildings are hit by urban heat islands using Google Climat
 - [JP Presentation of Analysis](https://docs.google.com/presentation/d/1qFDhW9GEZJ7woEmeOGu_KDV9Q8HzEm3a/editusp=sharing)
 
 ## Climate Engine Notebook
-- [ENG]📘 [Notebook for Google Climate Engine Data Prepartion](https://colab.research.google.com/drive/14w3PthyiGdiCd9c2UdYZITYFYcqwzH_D?usp=sharing)
-- [JNP]📘 [SDSC Tokyo Bootcamp ⛺️  Raster Analysis_jp](https://colab.research.google.com/drive/14w3PthyiGdiCd9c2UdYZITYFYcqwzH_D?usp=sharing)
+- [ENG and JNP]📘 [Notebook for Google Climate Engine Data Prepartion](https://colab.research.google.com/drive/14w3PthyiGdiCd9c2UdYZITYFYcqwzH_D?usp=sharing)
     - Requires a Climate engine Enabled GCP account
 
 ## Datasets Files
